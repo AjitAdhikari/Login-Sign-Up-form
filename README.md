@@ -15,7 +15,8 @@ This project is a **React-based Login and Signup User Interface**. It provides a
 
 ---
 
-## Project Structure
+## 📂 Project Structure
+```
 demo_project/
 ├── src/
 │   ├── components/
@@ -31,10 +32,8 @@ demo_project/
 │   ├── index.css
 ├── package.json
 ├── README.md
+```
 
-
-
----
 
 ## How It Works
 
