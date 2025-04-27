@@ -16,7 +16,22 @@ This project is a **React-based Login and Signup User Interface**. It provides a
 ---
 
 ## Project Structure
-demo_project/ ├── src/ │ ├── components/ │ │ ├── LoginSignup/ │ │ │ ├── LoginSignup.jsx │ │ │ ├── LoginSignup.css │ │ │ ├── Assets/ │ │ │ │ ├── email.png │ │ │ │ ├── password.png │ │ │ │ ├── user.png │ ├── App.js │ ├── index.js │ ├── index.css
+demo_project/
+├── src/
+│   ├── components/
+│   │   ├── LoginSignup/
+│   │   │   ├── LoginSignup.jsx
+│   │   │   ├── LoginSignup.css
+│   │   │   ├── Assets/
+│   │   │   │   ├── email.png
+│   │   │   │   ├── password.png
+│   │   │   │   ├── user.png
+│   ├── App.js
+│   ├── index.js
+│   ├── index.css
+├── package.json
+├── README.md
+
 
 
 ---
